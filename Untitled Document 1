@@ -1,0 +1,16 @@
+DUDAS EN LA IMPRESION DE LAS VARIABLES
+
+
+
+MÉTODO SIMPLEX
+
+En este blog explicaré el proceso de creación de un pograma hecho en python que resuelve problemas relacionados con programación lineal utilizando 2 métodos: Simplex y gráfico.
+
+Cronograma del desarrollo:
+El desarrollo empezó haciendo un código que resuelva el método simplex para variables previamente definidas en el código
+Implementación de la entrada de datos por parte del usuario, en donde se le pide el número de varibales, número de restricciones y la función objetivo (Z), después de eso el programa crea una tabla inicial con los datos ingresados.
+Implementación del método simplex utilizando la tabla del desarrollo anterior, en donde ocupa por debajo el método de Gaus Jordán para la solución
+Implementación de la resolución del modelo utilizando el método gráfico para 2 variables
+Pruebas de funcionalidad y robustes del programa
+
+Explicación más detallada del funcionamiento:
